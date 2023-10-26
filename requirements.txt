@@ -9,3 +9,4 @@ pyasn1==0.4.8
 git+https://github.com/MHProDev/pyroxy.git
 yarl~=1.8.1
 
+werkzeug>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
