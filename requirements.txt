@@ -5,7 +5,7 @@ requests==2.31.0
 impacket==0.10.0
 psutil>=5.9.3
 icmplib>=3.0.3
-pyasn1==0.4.8
+pyasn1==0.6.2
 git+https://github.com/MHProDev/pyroxy.git
 yarl~=1.8.1
 
